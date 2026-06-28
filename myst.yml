@@ -1,0 +1,38 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: ab22083f-5871-4237-95e1-c2006f9feea5
+
+  title: Guia Financeiro
+  subject: Início
+  description: Um guia financeiro voltado à construção de simuladoras que permitam verificar o melhor destino de aplicações de recursos
+
+  license: CC0-1.0 license
+
+  keywords:
+    - SPAECE
+    - jogo concreto
+    - baixo custo
+    - ensino médio
+    
+  github: https://github.com/OnMat/Guia-financeiro
+  
+  toc:
+    - file: index.md
+    - file: orientacoes.md
+    - file: sobre.md
+
+  exclude:
+    - README.md
+    - LICENSE
+
+site:
+  template: book-theme
+  options:
+    style: public/style.css
+    logo: public/logo.svg
+    folders: false
+  actions:
+    - title: GitHub
+      url: https://github.com/OnMat/Guia-financeiro
+  #   favicon: favicon.ico
