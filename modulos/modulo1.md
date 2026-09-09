@@ -1,13 +1,10 @@
 ---
-title: Módulo 1
-subtitle: A ilusão do consumo e a epidemia das apostas
-subject: Guia Financeiro
+title: Módulo 1 - A ilusão do consumo e a epidemia das apostas
+subject: Módulo 1
 author: ""
 ---
-```{raw:typst}
-#title[Módulo 1 -- A ilusão do consumo e a epidemia das apostas]
-```
-```{note}
+
+```{note} Objetivo
 O objetivo deste módulo é a conscientização. Trazer o debate do endividamento para a questão social e de saúde pública, evitando a culpabilização individual do jovem.
 ```
 

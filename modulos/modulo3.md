@@ -1,7 +1,6 @@
 ---
-title: Módulo 3
-subtitle: A matemática da ruína do apostador - probabilidade e esperança matemática
-subject: Guia Financeiro
+title: Módulo 3 - A matemática da ruína do apostador - probabilidade e esperança matemática
+subject: Módulo 3
 author: ""
 ---
 

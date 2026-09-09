@@ -1,7 +1,6 @@
 ---
-title: Módulo 5
-subtitle: Comparando os modelos e validando a tomada de decisão
-subject: Guia Financeiro
+title: Módulo 5 - Comparando os modelos e validando a tomada de decisão
+subject: Módulo 5
 author: ""
 ---
 

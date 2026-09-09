@@ -1,7 +1,6 @@
 ---
-title: Módulo 6
-subtitle: Manual do Professor
-subject: Guia Financeiro
+title: Módulo 6 - Manual do Professor
+subject: Módulo 6
 author: ""
 ---
 
