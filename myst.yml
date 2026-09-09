@@ -7,6 +7,11 @@ project:
   subject: Início
   description: Um guia financeiro voltado à construção de simuladoras que permitam verificar o melhor destino de aplicações de recursos
 
+  authors:
+    - name: Your Name
+      email: your.email@example.com
+      affiliation: Your Institution
+
   license: CC0-1.0 license
 
   keywords:
@@ -20,11 +25,23 @@ project:
   toc:
     - file: index.md
     - file: orientacoes.md
+    - file: modulos/modulo1.md
+    - file: modulos/modulo2.md
+    - file: modulos/modulo3.md
+    - file: modulos/modulo4.md
+    - file: modulos/modulo5.md
+    - file: modulos/modulo6.md
     - file: sobre.md
 
   exclude:
     - README.md
     - LICENSE
+
+extends:
+  - export.yml
+
+bibliography:
+  - references.bib
 
 site:
   template: book-theme
@@ -33,6 +50,10 @@ site:
     logo: public/logo.svg
     folders: false
   actions:
-    - title: GitHub
-      url: https://github.com/OnMat/Guia-financeiro
   #   favicon: favicon.ico
+    - title: GitHub Repo
+      url: https://github.com/OnMat/Guia-financeiro
+    - title: Feedback
+      url: https://github.com/OnMat/Guia-financeiro/issues
+    - title: Download PDF
+      url: ./exports/Guia-Financeiro.pdf

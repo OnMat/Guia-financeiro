@@ -1,6 +1,26 @@
 ---
 title: Orientações gerais
-subject: SPAECE Games
+subject: Guia Financeiro
 ---
 
-Os jogos aqui sistematizados constituem uma tentativa de integrar práticas lúdicas ao desenvolvimento e à consolidação de habilidades previstas na matriz de referência do Sistema Permanente de Avaliação da Educação Básica do Ceará (SPAECE). Trata-se de uma coleção composta por vinte jogos de baixo custo, concebidos a partir de materiais acessíveis, com vistas à sua viabilidade prática no contexto das escolas públicas. Cada jogo está articulado a, no mínimo, um descritor da referida matriz avaliativa, assegurando, assim, a coerência entre os objetivos pedagógicos e as competências avaliadas nas provas externas de larga escala.
+Prezado(a) Educador(a), 
+
+Este Guia Didático foi preparado com o propósito de nortear a sua prática docente no âmbito de um tema atual, de grande necessidade e que vem impactando na realidade dos nossos estudantes: a transição consciente entre a ilusão do mercado de apostas (bets e tigrinho) e a segurança do mundo dos investimentos financeiros. 
+
+Para um resultado significativo, este material foi estruturado sob a luz da Sequência Didática Investigativa (SDI), que propõe que o estudante investigue ativamente sobre o assunto em detrimento de apenas receber comandos e conceitos prontos, ou seja, o aluno é estimulado a levantar hipóteses, ter análise crítica para o contexto social em que vive, consegue manipular dados reais e desenvolver o seu próprio conhecimento de matemática e finanças. 
+
+## Como o Guia está estruturado?
+
+São 6 módulos planejados para conectar a realidade social, o rigor matemático e a tecnologia: 
+
+- **Módulos 1 e 2:** Nos primeiros dois módulos, começamos com um debate humanizado em que a bordamos o endividamento e o avanço das apostas não como erros individuais, mas falhas sociais e de questão de saúde, com a intenção de demover as armadilhas digitais e os algoritmos de atração que envolvem os jovens. 
+
+- **Módulos 3 e 4:** Nos módulos 3 e 4, através de laboratórios computacionais e do uso prático de planilhas eletrônicas, ocorrem as investigações por parte dos alunos sobre a matemática da ruína das apostas com os conceitos de probabilidade e esperança matemática, em confronto à matemática da construção de patrimônio com os conceitos de juros compostos e progressões geométricas 
+
+- **Módulo 5:** Neste módulo é realizada a reflexão financeira a partir dos resultados dos módulos 3 e 4, com posterior aplicação prática através da produção de campanhas de conscientização criadas pelos próprios alunos. 
+
+- **Módulo 6:** Neste módulo final é ofertado a você professor todo o suporte técnico e gabaritos necessários para a condução das atividades. 
+
+Esperamos que você possa utilizar este guia como um suporte, adaptando-o à realidade da sua turma, bem como da comunidade escolar. O seu papel como mediador será fundamental para desenvolver a curiosidade dos estudantes para a Educação Financeira com propósito emancipador. 
+
+Excelente trabalho!
