@@ -123,6 +123,10 @@
   preface_date: "[-options.preface_date-]",
 [# endif #]
 
+[# if options.preface_acknowledgments #]
+  preface_acknowledgments: "[-options.preface_acknowledgments-]",
+[# endif #]
+
 [# if options.preface_signature #]
   preface_signature: "[-options.preface_signature-]",
 [# endif #]

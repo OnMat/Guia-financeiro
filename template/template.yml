@@ -128,6 +128,9 @@ options:
   - id: preface_date
     type: string
     description: data exibida na assinatura do prefácio
+  - id: preface_acknowledgments
+    type: string
+    description: texto da subseção Agradecimentos, exibida dentro do prefácio
   - id: preface_signature
     type: string
     description: nome exibido na assinatura do prefácio

@@ -35,6 +35,7 @@
   preface_place: none,      // ex.: "Juazeiro do Norte, CE, Brasil"
   preface_date: none,       // ex.: "30 de setembro de 2026"
   preface_signature: none,  // ex.: "Tales Souza da Rocha"
+  preface_acknowledgments: none,    // texto da subseção "Agradecimentos", dentro do prefácio
 
   // SPECIFICATION of output
   paper-size: "a4",       // https://typst.app/docs/reference/layout/page/#parameters-paper
@@ -174,6 +175,16 @@
       first-line-indent: (amount: indent, all: false),
     )
     preface
+    // Subseção "Agradecimentos": fica depois do texto do prefácio e antes da assinatura
+    if preface_acknowledgments != none {
+      block(
+        above: 2 * fontsize,
+        below: 1.75 * fontsize,   // mesma distância título–texto dos capítulos
+        sticky: true,
+        text(1.2 * fontsize, fill: theme, weight: "bold", "Agradecimentos"),
+      )
+      preface_acknowledgments
+    }
     if preface_place != none or preface_signature != none or preface_date != none {
       v(1em)
       par(first-line-indent: 0em)[
