@@ -8,11 +8,10 @@ project:
   description: Um guia que mostra ao estudande como passar da aposta para o investimento.
 
   authors:
-    - name: Your Name
-      email: your.email@example.com
-      affiliation: Your Institution
+    - name: Tales Souza da Rocha
+      affiliation: Universidade Federal do Cariri
 
-  license: CC0-1.0 license
+  license: CC0-1.0
 
   keywords:
     - SPAECE
@@ -37,19 +36,19 @@ project:
     - README.md
     - LICENSE
 
+  bibliography:
+    - referencias.bib
+
 extends:
   - export.yml
 
-bibliography:
-  - references.bib
-  
 site:
   template: book-theme
   options:
     style: public/style.css
     logo: public/logo.svg
     folders: false
-  hide_authors: true
+    hide_authors: true
   actions:
   #   favicon: favicon.ico
     - title: GitHub Repo

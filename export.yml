@@ -7,7 +7,7 @@ project:
   exports:
     - id: output-pdf
       format: typst
-      template: plain_typst_book
+      template: ./template
       output: ./exports/Guia-Financeiro.pdf
       articles:
         - modulos/modulo1.md
@@ -24,6 +24,9 @@ project:
       coverposition: 0  #in cm from title
       cover_width: 21 #in cm
 
+# Imagem de fundo (todas as páginas, exceto a capa)
+      background: background.png
+
 # ToC
       ToC_depth: 2
       show_ToC: true
@@ -35,23 +38,27 @@ project:
 
       #### Looks
       papersize: a4
-      margin_top: 2 #cm
+      # margens ABNT (NBR 14724): superior e esquerda 3 cm, inferior e direita 2 cm
+      margin_top: 3 #cm
       margin_bottom: 2 #cm
-      margin_left: 10 #%
-      margin_right: 10 #%
+      margin_left: 3 #cm
+      margin_right: 2 #cm
       show_pagenumber: true
 
       #### Fonts
       fontsize: 12
       fontstyle: 
       linespacing: .5
-      justification: false
+      justification: true
       
       #### Theme
       colortheme: blue.darken(30%)
       colorheadings: navy
       
 # Preface
+      preface_place: Juazeiro do Norte, CE, Brasil
+      preface_date: 30 de setembro de 2026
+      preface_signature: Tales Souza da Rocha
       preface: |
         Você sabia que os sites de apostas usam a mesma matemática dos cassinos para garantir que você perca? E que apesar de não parecer, mas um investimento simples como poupar em uma conta remunerada, um CDB no banco digital ou a caderneta de poupança pode te levar ao sucesso financeiro? Este guia vai te mostrar como usar a ciência de dados e a matemática a seu favor para perceber isso na prática!
         
