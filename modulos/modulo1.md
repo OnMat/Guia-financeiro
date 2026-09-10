@@ -9,7 +9,7 @@ O objetivo deste módulo é a conscientização. Trazer o debate do endividament
 
 ## A desregulamentação e o _smartphone_ como cassino portátil
 
-Até pouco tempo atrás, a prática de jogos de azar se restringia a ambientes físicos específicos que eram distantes do cotidiano da maioria dos jovens. Porém, a partir da desregulamentação das apostas de quota fixa no Brasil, as populares bets, o cenário alterou de forma substancial. Hoje, um simples smartphone que carregamos no bolso não é apenas uma ferramenta de comunicação ou estudo, ele passou a ser uma espécie de cassino disponível 24 horas por dia.
+Até pouco tempo atrás, a prática de jogos de azar se restringia a ambientes físicos específicos que eram distantes do cotidiano da maioria dos jovens. Porém, a partir da desregulamentação das apostas de quota fixa no Brasil, as populares bets, o cenário alterou de forma substancial. Hoje, um simples smartphone que carregamos no bolso não é apenas uma ferramenta de comunicação ou estudo, ele passou a ser uma espécie de cassino disponível 24 horas por dia [@antunes2025apostas].
 
 A engenharia por trás das Bets é desenhada para gerar engajamento constante. Seja através de notificações chamativas, cores vibrantes, sons estimuladores que simulam vitórias ou a facilidade do Pix, os aplicativos constroem um ambiente altamente interessante e com facilidade de acesso. De modo análogo, a gamificação de jogos de azar (como o "jogo do tigrinho") esconde os riscos financeiros reais sob uma imagem de um jogo eletrônico inofensivo, o que faz com que haja entre diversão e prejuízo financeiro uma linha extremamente tênue, principalmente para o público jovem.
 
@@ -42,3 +42,7 @@ Desenvolver a criticidade dos estudantes em relação às estratégias de market
     * Acerca das informações pouco destacadas: "Existe algum aviso nítido sobre os riscos de perda ou termos de responsabilidade? Se sim, onde está localizado e o seu tamanho?"
     * Acerca do uso de personalidades: "O uso de pessoas famosas (do esporte, da música, influenciadores) dá uma falsa impressão de segurança para quem joga?
 4. Ao final, cada grupo deve apresentar suas percepções em roda de conversa, identificando relações comuns nas estratégias usadas pelas plataformas para atrair novos usuários.
+
+```{attention} Importante
+Essa análise permite aos estudantes perceberem como as estratégias de comunicação utilizadas pelas plataformas de apostas podem influenciar a percepção dos riscos e das possibilidades de ganho [@antunes2025apostas]
+```

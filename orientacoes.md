@@ -5,9 +5,9 @@ subject: Guia - da aposta ao investimento
 
 Prezado(a) Educador(a), 
 
-Este Guia foi preparado com o propósito de nortear a sua prática docente no âmbito de um tema atual, de grande necessidade e que vem impactando na realidade dos nossos estudantes: a transição consciente entre a ilusão do mercado de apostas (bets e tigrinho) e a segurança do mundo dos investimentos financeiros. 
+Este Guia foi preparado com o propósito de nortear a sua prática docente no âmbito de um tema atual, de grande necessidade e que vem impactando na realidade dos nossos estudantes: a transição consciente entre a ilusão do mercado de apostas (bets e tigrinho) e a segurança do mundo dos investimentos financeiros. A proposta também dialoga com as orientações da Base Nacional Comum Curricular, especialmente no que se refere à formação dos estudantes para analisar situações do cotidiano e tomar decisões de maneira responsável e fundamentada [@brasil2018bncc].
 
-Para um resultado significativo, este material foi estruturado sob a luz da Sequência Didática Investigativa (SDI), que propõe que o estudante investigue ativamente sobre o assunto em detrimento de apenas receber comandos e conceitos prontos, ou seja, o aluno é estimulado a levantar hipóteses, ter análise crítica para o contexto social em que vive, consegue manipular dados reais e desenvolver o seu próprio conhecimento de matemática e finanças. 
+Para um resultado significativo, este material foi estruturado sob a luz da Sequência Didática Investigativa, que propõe que o estudante investigue ativamente sobre o assunto em detrimento de apenas receber comandos e conceitos prontos, ou seja, o aluno é estimulado a levantar hipóteses, ter análise crítica para o contexto social em que vive, consegue manipular dados reais e desenvolver o seu próprio conhecimento de matemática e finanças [@barbosa2001modelagem].
 
 ## Como o Guia está estruturado?
 
@@ -21,6 +21,6 @@ São 6 capítulos ou módulos planejados para conectar a realidade social, o rig
 
 - No módulo final, é ofertado a você professor todo o suporte técnico e gabaritos necessários para a condução das atividades. 
 
-Esperamos que você possa utilizar este guia como um suporte, adaptando-o à realidade da sua turma, bem como da comunidade escolar. O seu papel como mediador será fundamental para desenvolver a curiosidade dos estudantes para a Educação Financeira com propósito emancipador. 
+Esperamos que você possa utilizar este guia como um suporte, adaptando-o à realidade da sua turma, bem como da comunidade escolar. O seu papel como mediador será fundamental para desenvolver a curiosidade dos estudantes para a Educação Financeira com propósito emancipador [@bcb2026caderno]. 
 
 Excelente trabalho!

@@ -9,7 +9,7 @@ O objetivo deste modulo é utilizar tabelas juntamente com o conceito matemátic
 
 ## Desmistificando a sorte através da probabilidade
 
-No dia a adia, dizemos que sorte é uma palavra utilizada para justificar eventos que não podemos prever, ou seja, imprevisíveis. Entretanto, quando falamos em jogos de azar, sorte é quantificável e tem um nome: *probabilidade*. Na matemática, a probabilidade é a chance de um determinado evento ocorrer através de uma razão entre o número de casos favoráveis e o número total de casos possíveis:
+No dia a dia, dizemos que sorte é uma palavra utilizada para justificar eventos que não podemos prever, ou seja, imprevisíveis. Entretanto, quando falamos em jogos de azar, sorte é quantificável e tem um nome: *probabilidade*. A compreensão das probabilidades envolvidas nos jogos de azar permite analisar matematicamente situações que, no senso comum, costumam ser associadas exclusivamente à sorte [@moscardini2025jogos]. Na matemática, a probabilidade é a chance de um determinado evento ocorrer através de uma razão entre o número de casos favoráveis e o número total de casos possíveis:
 
 ```{math}
 :name: eq:probabilidade

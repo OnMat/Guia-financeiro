@@ -32,6 +32,10 @@ Após a discussão inicial feita a fim de compreender separadamente o funcioname
 3. Permita que os alunos escolham o valor desejado entre R\$50,00 até o valor integral do benefício R\$200,00, e peça que eles apliquem aos modelos estudados anteriormente.
 4. Utilizando o Excel ou o Google Sheets, os estudantes deverão comparar os resultados.
 
+```{attention} Importante
+A análise dos resultados obtidos a partir dos modelos permite relacionar os conhecimentos matemáticos à situação investigada, característica importante das propostas de Modelagem Matemática no ensino [@biembengut2011modelagem].
+```
+
 ## Construindo um infográfico: investigando o tempo como aliado ou inimigo
 
 Ao longo do guia, a construção dos dois modelos matemáticos diferentes permitiu finalidades diferentes para a utilização dos recursos financeiros. Enquanto um evidencia como a repetição das apostas, associada à esperança matemática negativa, sempre favorece a banca, a outra por meio dos juros compostos, mostra que o modelo de capitalização composta evidencia o crescimento do montante investido sob uma taxa de rendimento definida.
