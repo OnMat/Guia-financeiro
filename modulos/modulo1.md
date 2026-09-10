@@ -1,10 +1,9 @@
 ---
-title: Módulo 1 - A ilusão do consumo e a epidemia das apostas
+title: A ilusão do consumo e a epidemia das apostas
 subject: Módulo 1
-author: ""
 ---
 
-```{note} Objetivo
+```{important} Objetivo
 O objetivo deste módulo é a conscientização. Trazer o debate do endividamento para a questão social e de saúde pública, evitando a culpabilização individual do jovem.
 ```
 
@@ -14,7 +13,7 @@ Até pouco tempo atrás, a prática de jogos de azar se restringia a ambientes f
 
 A engenharia por trás das Bets é desenhada para gerar engajamento constante. Seja através de notificações chamativas, cores vibrantes, sons estimuladores que simulam vitórias ou a facilidade do Pix, os aplicativos constroem um ambiente altamente interessante e com facilidade de acesso. De modo análogo, a gamificação de jogos de azar (como o "jogo do tigrinho") esconde os riscos financeiros reais sob uma imagem de um jogo eletrônico inofensivo, o que faz com que haja entre diversão e prejuízo financeiro uma linha extremamente tênue, principalmente para o público jovem. 
 
-## Estudo de Caso – A busca pelo consumo e a vulnerabilidade social 
+## Estudo de Caso – a busca pelo consumo e a vulnerabilidade social 
 
 Para compreendermos como as escolhas no âmbito financeiro são influenciadas pelo meio social em que convivemos, analisemos a seguinte situação hipotética.
 
@@ -28,18 +27,18 @@ Vinícius tem 17 anos, ele cursa o ensino médio em uma escola pública e sonha 
 2. Como a ilusão do "ganho fácil" apresentada nas redes sociais contrasta com a realidade financeira do dia a dia? 
 3. De que forma o sentimento de querer recuperar o dinheiro perdido (efeito de perseguição de perdas) pode se transformar em um ciclo prejudicial?
 
-## Atividade Investigativa – Investigadores de Narrativas
+## Atividade Investigativa – investigadores de narrativas
 
-```{note} Objetivo da atividade
+```{important} Objetivo da atividade
 Desenvolver a criticidade dos estudantes em relação às estratégias de marketing e publicidade que as plataformas de apostas online utilizam.
 ```
 
-**Roteiro:**
+### Roteiro
 
 1. Divida a sala em pequenos grupos (de 3 a 4 alunos) 
 2. Peça para cada grupo pesquisar ou recordar propagandas, publicações de influenciadores digitais ou patrocínios de times de futebol, campeonato, programas de TV relacionados a marcas de casas de apostas. 
 3. Oriente os grupos a analisarem as narrativas coletadas na pesquisa, com base em três perguntas guias: 
-    * Acerca dos gatilhos emocionais: “A propaganda associa o ato de apostar com sentimento de conquistas, status, inteligência ou diversão entre amigos?” 
-    * Acerca das informações pouco destacadas: “Existe algum aviso nítido sobre os riscos de perda ou termos de responsabilidade? Se sim, onde está localizado e o seu tamanho?” 
-    * Acerca do uso de personalidades: “O uso de pessoas famosas (do esporte, da música, influenciadores) dá uma falsa impressão de segurança para quem joga? 
+    * Acerca dos gatilhos emocionais: "A propaganda associa o ato de apostar com sentimento de conquistas, status, inteligência ou diversão entre amigos?" 
+    * Acerca das informações pouco destacadas: "Existe algum aviso nítido sobre os riscos de perda ou termos de responsabilidade? Se sim, onde está localizado e o seu tamanho?" 
+    * Acerca do uso de personalidades: "O uso de pessoas famosas (do esporte, da música, influenciadores) dá uma falsa impressão de segurança para quem joga? 
 4. Ao final, cada grupo deve apresentar suas percepções em roda de conversa, identificando relações comuns nas estratégias usadas pelas plataformas para atrair novos usuários.

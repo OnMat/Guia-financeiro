@@ -42,6 +42,8 @@ extends:
 
 bibliography:
   - references.bib
+  
+nocite: '@*'
 
 site:
   template: book-theme
@@ -49,6 +51,7 @@ site:
     style: public/style.css
     logo: public/logo.svg
     folders: false
+  hide_authors: true
   actions:
   #   favicon: favicon.ico
     - title: GitHub Repo

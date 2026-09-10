@@ -1,6 +1,6 @@
 ---
 title: Sobre
-subject: SPAECE Games
+subject: Guia Financeiro
 ---
 
 
