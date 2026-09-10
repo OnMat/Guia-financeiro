@@ -4,19 +4,19 @@ subject: Guia Financeiro
 ---
 
 
-## Autora
+## Autor
 
-Prof.ª Anna Beatriz Bezerra Rodrigues Alves
+Prof. Tales Souza da Rocha
 
 ## Como citar
 
-Para citar este produto usando o BibLaTeX, utilize:
+Para citar este produto usando o BibTeX, utilize:
 
 ```{code-cell} bibtex
-@mastersthesis{AnnaBeatriz2025a,
-  author  = "Anna Beatriz Bezerra Rodrigues Alves",
-  title   = "Jogos concretos de baixo custo alinhados a descritores de matemática do SPAECE",
-  school  = "Universidade Federal do Cariri",
-  year    = "2025"
+@online{TalesRocha2026a,
+  author  = "Tales Souza da Rocha",
+  title   = "Guia Financeiro: da aposta ao investimento",
+  address = "Juazeiro do Norte",
+  year    = "2026"
 }
 ```

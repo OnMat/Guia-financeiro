@@ -5,7 +5,7 @@ project:
 
   title: Guia Financeiro
   subject: Início
-  description: Um guia financeiro voltado à construção de simuladoras que permitam verificar o melhor destino de aplicações de recursos
+  description: Um guia que mostra ao estudande como passar da aposta para o investimento.
 
   authors:
     - name: Your Name
@@ -43,8 +43,6 @@ extends:
 bibliography:
   - references.bib
   
-nocite: '@*'
-
 site:
   template: book-theme
   options:

@@ -46,11 +46,11 @@ Construir uma planilha comparativa para investigar a diferença entre guardar o 
 2. Apresente a seguinte situação aos alunos:
     - "Se você conseguisse poupar R$ 50,00 por mês, de tudo que você recebe no mês (como mesada por exemplo), qual seria o valor acumulado ao longo de 1 ano, 5 anos e 10 anos?" 
 3. Oriente a construção das planilhas, pedindo que os alunos criem uma tabela que simule essa situação:
-    - Na Célula A1, peça que escrevam: "Tempo (meses)"; Na Célula B1: "Acumulado (sem rendimento)"; na Célula C1: "Acumulado (juros compostos)". 
-    - Na Célula A2, peça que coloquem o número "1", e na Célula A3 o número "2", em seguida peça que selecione as duas e arraste até o valor "120" que será na Célula A121. 
-    - Na Célula B2, peça que coloquem a função: "=50*A2", e em seguida arrastar até a célula B121. Aqui o aluno verá que com 1 ano (12 meses), 5 anos (60 meses) e 10 anos (120 meses), o acúmulo nada mais é que a soma apenas dos aportes mensais fixos até determinado ponto de análise. 
-    - Na Célula C2, peça que coloquem a função: "=VF(0,8%; A2; -50; 0; 0)", e em seguida arrastar até a célula C121. Aqui o aluno verá que com 1 ano (12 meses), 5 anos (60 meses) e 10 anos (120 meses), o acúmulo representará um valor futuro acumulado, gerado pela soma dos aportes mensais fixos com os rendimentos de cada um deles até determinado ponto de análise. 
-4. Solicite que os alunos façam uma análise gráfica, ao pedir que selecionem as três colunas, e indo na aba inserir, gráficos recomendados, e clicar na segunda opção de gráfico de linhas recomendada. 
+    - Na Célula `A1`, peça que escrevam: `Tempo (meses)`; Na Célula `B1`: `Acumulado (sem rendimento)`; na Célula `C1`: `Acumulado (juros compostos)`.
+    - Na Célula `A2`, peça que coloquem o número `1`, e na Célula `A3` o número `2`, em seguida peça que selecione as duas e arraste até o valor `120` que será na Célula `A121`.
+    - Na Célula `B2`, peça que coloquem a função: `=50*A2`, e em seguida arrastar até a célula `B121`. Aqui o aluno verá que com 1 ano (12 meses), 5 anos (60 meses) e 10 anos (120 meses), o acúmulo nada mais é que a soma apenas dos aportes mensais fixos até determinado ponto de análise.
+    - Na Célula `C2`, peça que coloquem a função: `=VF(0,8%; A2; -50; 0; 0)`, e em seguida arrastar até a célula `C121`. Aqui o aluno verá que com 1 ano (12 meses), 5 anos (60 meses) e 10 anos (120 meses), o acúmulo representará um valor futuro acumulado, gerado pela soma dos aportes mensais fixos com os rendimentos de cada um deles até determinado ponto de análise.
+4. Solicite que os alunos façam uma análise gráfica, ao pedir que selecionem as três colunas, e indo na aba inserir, gráficos recomendados, e clicar na segunda opção de gráfico de linhas recomendada. O resultado deve ser parecido com o seguinte:
 
 ```{image} m4-planilha.png
 :alt: Ilustração da planilha elaborada pelos alunos no Módulo 4

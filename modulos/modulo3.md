@@ -22,8 +22,8 @@ Usando um dado comum de 6 faces como exemplo, a chance de sortear o número 5 é
 
 O que garante o lucro das casas de apostas, e consequentemente, a ruína financeira do apostador no longo prazo, é o conceito da *esperança matemática*, denotada por $E[X]$. Trata-se da representação do valor médio esperado de ganho ou perda em um cenário de repetição de jogadas. Com a esperança matemática, dizemos que um jogo é:
 
-* **Justo**, se $E[X] = 0$, ou seja, no longo prazo, ninguém perde e ninguém ganha. 
-* **Favorável**, se $E[X] > 0$, ou seja, no longo prazo, o jogador tende a lucrar. 
+* **Justo**, se $E[X] = 0$, ou seja, no longo prazo, ninguém perde e ninguém ganha.
+* **Favorável**, se $E[X] > 0$, ou seja, no longo prazo, o jogador tende a lucrar.
 * **Desfavorável (ou ruína)**, se $E[X] < 0$, ou seja, no longo prazo o jogador inevitavelmente perderá todo o seu dinheiro.
 
 Um exemplo prático, seria imaginar um jogo de cara ou coroa com uma moeda modificada.
@@ -39,7 +39,7 @@ Calculando a esperança matemática deste jogo, temos:
 E[X] = (10 \times 0{,}5) + (-12 \times 0{,}5) = 5 - 6 = -1
 :::
 
-A interpretação da situação acima significa que, a cada jogada, você tem uma possibilidade média de perder R\$ 1,00 (um real). Se você jogar uma única vez, você pode ter a sorte de sair cara e ganhar R\$ 10,00 (dez reais). Mas se você jogar, por exemplo, 1000 vezes, a matemática vai se impor e você terminará com um prejuízo próximo de R$ 1000,00 (mil reais). As *bets* e o jogo do tigrinho funcionam assim.
+A interpretação da situação acima significa que, a cada jogada, você tem uma possibilidade média de perder R\$ 1,00 (um real). Se você jogar uma única vez, você pode ter a sorte de sair cara e ganhar R\$ 10,00 (dez reais). Mas se você jogar, por exemplo, 1000 vezes, a matemática vai se impor e você terminará com um prejuízo próximo de R\$ 1000,00 (mil reais). As *bets* e o jogo do tigrinho funcionam assim.
 
 ## Laboratório Computacional - é hora de simular a Lei dos Grandes Números
 
