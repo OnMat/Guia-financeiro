@@ -80,11 +80,11 @@ Posteriormente, eles podem fazer comparações entre os resultados diante essas 
 
 ## Materiais complementares 
 
-### QR Code
+### Planilhas
 
-- Planilha do Módulo 3. 
-- Planilha do Módulo 4. 
-- Planilha do Módulo 5. 
+- [Planilha do Módulo 3](m3-planilha.xlsx)
+- [Planilha do Módulo 4](m4-planilha.xlsx)
+- [Planilha do Módulo 5](m5-planilha.xlsx)
 
 ### Fórmulas Prontas 
 
