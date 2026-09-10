@@ -3,7 +3,7 @@ version: 1
 project:
   id: ab22083f-5871-4237-95e1-c2006f9feea5
 
-  title: Guia Financeiro
+  title: Guia - da aposta ao investimento
   subject: Início
   description: Um guia que mostra ao estudande como passar da aposta para o investimento.
 
@@ -56,4 +56,4 @@ site:
     - title: Feedback
       url: https://github.com/OnMat/Guia-financeiro/issues
     - title: Download PDF
-      url: ./exports/Guia-Financeiro.pdf
+      url: ./exports/Guia-da-aposta-ao-investimento.pdf

@@ -1,6 +1,6 @@
 ---
 title: Orientações gerais
-subject: Guia Financeiro
+subject: Guia - da aposta ao investimento
 ---
 
 Prezado(a) Educador(a), 

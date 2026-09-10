@@ -8,7 +8,7 @@ project:
     - id: output-pdf
       format: typst
       template: ./template
-      output: ./exports/Guia-Financeiro.pdf
+      output: ./exports/Guia-da-aposta-ao-investimento.pdf
       articles:
         - modulos/modulo1.md
         - modulos/modulo2.md
@@ -64,7 +64,7 @@ project:
         
         Esta apostila contém o produto educacional da dissertação \"Da aposta ao investimento uma sequência didática investigativa sobre a gestão pessoal de recursos financeiros com suporte computacional\", apresentado ao Programa de Pós-Graduação em Matemática em Rede Nacional da Universidade Federal do Cariri.
 
-        Este Guia Didático foi preparado com o propósito de nortear a sua prática docente no âmbito de um tema atual, de grande necessidade e que vem impactando na realidade dos nossos estudantes: a transição consciente entre a ilusão do mercado de apostas (bets e tigrinho) e a segurança do mundo dos investimentos financeiros.
+        Este Guia didático foi preparado com o propósito de nortear a sua prática docente no âmbito de um tema atual, de grande necessidade e que vem impactando na realidade dos nossos estudantes: a transição consciente entre a ilusão do mercado de apostas (bets e tigrinho) e a segurança do mundo dos investimentos financeiros.
         
         Para um resultado significativo, este material foi estruturado sob a luz da Sequência Didática Investigativa (SDI), que propõe que o estudante investigue ativamente sobre o assunto em detrimento de apenas receber comandos e conceitos prontos, ou seja, o aluno é estimulado a levantar hipóteses, ter análise crítica para o contexto social em que vive, consegue manipular dados reais e desenvolver o seu próprio conhecimento de matemática e finanças. 
 
