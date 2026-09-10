@@ -219,6 +219,10 @@
 
   //Heading colors
   show heading: set text(colorheadings)
+
+  // Distância entre o título e o texto que vem depois: o padrão do Typst
+  // é 0.75em do texto; aqui vale 1.75em (1em a mais) em todos os níveis
+  show heading: set block(below: 1.75 * fontsize)
   
 
 // PAGE LAYOUT OF CONTENT

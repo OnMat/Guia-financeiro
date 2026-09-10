@@ -27,6 +27,9 @@ project:
 # Imagem de fundo (todas as páginas, exceto a capa)
       background: background.png
 
+# Referências: usa o .bib original, preservando dissertações e "Acesso em"
+      bibliography_file: referencias.bib
+
 # ToC
       ToC_depth: 2
       show_ToC: true

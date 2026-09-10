@@ -18,8 +18,11 @@
 
 
 // logo for top page
+// Caminhos de arquivo entram como texto bruto (`...`.text), não como string "...":
+// no Windows o MyST usa barra invertida, e numa string Typst "files\referencias.bib"
+// o \r vira quebra de linha. O .replace("\\", "/") no style.typ troca as barras.
 [# if options.logo #]
-  logo: "[-options.logo-]",
+  logo: `[-options.logo-]`.text,
 [# endif #]
 
 // specify the with of the logo
@@ -30,11 +33,11 @@
 
 // cover picture
 [# if options.cover #]
-  cover: "[-options.cover-]",
+  cover: `[-options.cover-]`.text,
 [# endif #]
 
 [# if options.background #]
-  background: "[-options.background-]",
+  background: `[-options.background-]`.text,
 [# endif #]
 
 [# if options.cover_width #]
@@ -134,7 +137,13 @@
 
 [# if doc.bibtex #]
 #{
-  show bibliography: set text(8pt)
-  bibliography("[-doc.bibtex-]", title: text(10pt, "Referências"), style: "associacao-brasileira-de-normas-tecnicas")
+  // Usa o .bib original (opção bibliography_file) quando informado: o main.bib que o
+  // MyST gera converte @mastersthesis em @misc e descarta o urldate ("Acesso em").
+  // Citações por DOI, que não estão no .bib, exigem voltar para o main.bib.
+  let bibfile = `[# if options.bibliography_file #][-options.bibliography_file-][# else #][-doc.bibtex-][# endif #]`.text
+  // Mesma fonte e tamanho do texto; ABNT: referências alinhadas à esquerda
+  // e separadas por uma linha em branco
+  show bibliography: set par(justify: false, first-line-indent: 0em, spacing: 1.2em)
+  bibliography(bibfile.replace("\\", "/"), title: "Referências", style: "associacao-brasileira-de-normas-tecnicas")
 }
 [# endif #]

@@ -47,6 +47,9 @@ options:
   - id: cover
     type: file
     description: An image path that is shown in the front page
+  - id: bibliography_file
+    type: file
+    description: arquivo .bib usado diretamente na lista de referências
   - id: background
     type: file
     description: imagem de fundo de todas as páginas, exceto a capa
