@@ -23,6 +23,12 @@ project:
       cover: cover.png
       coverposition: 0  #in cm from title
       cover_width: 21 #in cm
+      cover_top: "PRODUTO EDUCACIONAL"
+      cover_top_y: 2.5   # % da altura
+      cover_note: "Orientador: Prof. Dr. Vicente Helano F. Batista Sobrinho"
+      cover_note2: "PROFMAT · Universidade Federal do Cariri · 2026"
+      cover_note_x: 17   # % da largura
+      cover_note_y: 93.8 # % da altura
 
 # Imagem de fundo (todas as páginas, exceto a capa)
       background: background.png
@@ -77,11 +83,7 @@ project:
 # Agradecimentos: subseção dentro do prefácio, antes da assinatura.
 # Para ativar, descomente as linhas abaixo e escreva o texto
 # (parágrafos separados por uma linha em branco, como no preface):
-      preface_acknowledgments: |
-        A construção deste Produto Educacional contou com apoios e contribuições que foram de fundamental importância para a sua elaboração. Agradeço ao meu orientador, Prof. Dr. Vicente Helano, pelo acompanhamento, pelas orientações e pelas contribuições que auxiliaram no desenvolvimento e no aprimoramento desta proposta.
-        
-        Agradeço também aos professores e pesquisadores cujos estudos e produções acadêmicas contribuíram para dar base teórica e metodológica a este material, especialmente nas áreas de Educação Financeira, Modelagem Matemática, Educação Matemática Crítica, Matemática Financeira e Probabilidade.
-        
-        Agradeço ainda à Universidade Federal do Cariri (UFCA) e ao Programa de Pós-Graduação em Matemática em Rede Nacional (PROFMAT) pelo espaço de formação e pesquisa que possibilitou a construção deste Produto Educacional.
-        
-        Por fim, agradeço a todos que, de forma direta ou indireta, contribuíram durante todo o processo de elaboração desta proposta e para a realização deste trabalho.
+#      preface_acknowledgments: |
+#        Primeiro parágrafo dos agradecimentos.
+#
+#        Segundo parágrafo.

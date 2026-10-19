@@ -21,6 +21,12 @@
   subtitle: none,
   authors: "Your name",
   cover: none,            // <— path to cover "images/cover.png"
+  cover_top: none,        // texto sobreposto no topo da capa
+  cover_top_y: 4,         // posição do texto do topo, em % da altura
+  cover_note: none,       // 1ª linha sobreposta no pé da capa (ex.: orientador)
+  cover_note2: none,      // 2ª linha sobreposta no pé da capa
+  cover_note_x: 17,       // posição das linhas do pé, em % da largura
+  cover_note_y: 93.8,     // posição das linhas do pé, em % da altura
   background: none,       // imagem de fundo de todas as páginas, exceto a capa
   cover_width: 12cm,    
   coverposition: 1cm,
@@ -34,8 +40,8 @@
   preface: none,
   preface_place: none,      // ex.: "Juazeiro do Norte, CE, Brasil"
   preface_date: none,       // ex.: "30 de setembro de 2026"
-  preface_signature: none,  // ex.: "Tales Souza da Rocha"
-  preface_acknowledgments: none,    // texto da subseção "Agradecimentos", dentro do prefácio
+  preface_signature: none,  // ex.: "Tales Sousa da Rocha"
+  preface_acknowledgments: none,  // texto da subseção "Agradecimentos", dentro do prefácio
 
   // SPECIFICATION of output
   paper-size: "a4",       // https://typst.app/docs/reference/layout/page/#parameters-paper
@@ -135,6 +141,26 @@
     if cover != none {
       //v(coverposition)
       align(center, image((cover.replace("\\", "/")), width: cover_width))
+      // Textos sobrepostos à capa. A página da capa não tem margem, então as
+      // porcentagens valem para a folha inteira; ajuste com cover_*_x/y.
+      if cover_top != none {
+        place(
+          top + center,
+          dy: cover_top_y * 1%,
+          text(13pt, weight: "bold", fill: theme, tracking: 2pt, cover_top),
+        )
+      }
+      if cover_note != none or cover_note2 != none {
+        place(
+          top + left,
+          dx: cover_note_x * 1%,
+          dy: cover_note_y * 1%,
+          text(12pt, fill: luma(20%))[
+            #if cover_note != none [#cover_note]
+            #if cover_note2 != none [#linebreak() #cover_note2]
+          ],
+        )
+      }
     }
 
   //author
@@ -175,11 +201,11 @@
       first-line-indent: (amount: indent, all: false),
     )
     preface
-    // Subseção "Agradecimentos": fica depois do texto do prefácio e antes da assinatura
+    // Subseção "Agradecimentos": depois do texto do prefácio, antes da assinatura
     if preface_acknowledgments != none {
       block(
         above: 2 * fontsize,
-        below: 1.75 * fontsize,   // mesma distância título–texto dos capítulos
+        below: 1.75 * fontsize,
         sticky: true,
         text(1.2 * fontsize, fill: theme, weight: "bold", "Agradecimentos"),
       )

@@ -40,6 +40,30 @@
   background: `[-options.background-]`.text,
 [# endif #]
 
+[# if options.cover_top #]
+  cover_top: "[-options.cover_top-]",
+[# endif #]
+
+[# if options.cover_top_y #]
+  cover_top_y: [-options.cover_top_y-],
+[# endif #]
+
+[# if options.cover_note2 #]
+  cover_note2: "[-options.cover_note2-]",
+[# endif #]
+
+[# if options.cover_note #]
+  cover_note: "[-options.cover_note-]",
+[# endif #]
+
+[# if options.cover_note_x #]
+  cover_note_x: [-options.cover_note_x-],
+[# endif #]
+
+[# if options.cover_note_y #]
+  cover_note_y: [-options.cover_note_y-],
+[# endif #]
+
 [# if options.cover_width #]
   cover_width: [-options.cover_width-]cm,
 [# endif #]

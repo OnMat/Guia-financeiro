@@ -47,15 +47,33 @@ options:
   - id: cover
     type: file
     description: An image path that is shown in the front page
-  - id: bibliography_file
-    type: file
-    description: arquivo .bib usado diretamente na lista de referências
   - id: background
     type: file
     description: imagem de fundo de todas as páginas, exceto a capa
   - id: coverposition
     type: number
     description: Sets the vertical position of the cover 
+  - id: bibliography_file
+    type: file
+    description: arquivo .bib usado diretamente na lista de referências
+  - id: cover_top
+    type: string
+    description: "texto sobreposto no topo da capa"
+  - id: cover_top_y
+    type: number
+    description: posição vertical do texto do topo, em % da altura
+  - id: cover_note2
+    type: string
+    description: "segunda linha sobreposta no pé da capa"
+  - id: cover_note
+    type: string
+    description: "linha de texto sobreposta à capa, por exemplo o orientador"
+  - id: cover_note_x
+    type: number
+    description: posição horizontal da linha sobreposta, em % da largura
+  - id: cover_note_y
+    type: number
+    description: posição vertical da linha sobreposta, em % da altura
   - id: cover_width
     type: number
     description: Sets the width of the coverfigure
