@@ -80,10 +80,28 @@ project:
         São seis capítulos ou módulos planejados para conectar a realidade social, o rigor matemático e a tecnologia. Nos primeiros dois módulos, começamos com um debate humanizado em que a bordamos o endividamento e o avanço das apostas não como erros individuais, mas falhas sociais e de questão de saúde, com a intenção de demover as armadilhas digitais e os algoritmos de atração que envolvem os jovens. Nos Módulos 3 e 4, através de laboratórios computacionais e do uso prático de planilhas eletrônicas, ocorrem as investigações por parte dos alunos sobre a matemática da ruína das apostas com os conceitos de probabilidade e esperança matemática, em confronto à matemática da construção de patrimônio com os conceitos de juros compostos e progressões geométricas. No Módulo 5, é realizada a reflexão financeira a partir dos resultados dos módulos 3 e 4, com posterior aplicação prática através da produção de campanhas de conscientização criadas pelos próprios alunos. O módulo final é ofertado a você professor todo o suporte técnico e gabaritos necessários para a condução das atividades.
           
         Esperamos que você possa utilizar este guia como um suporte, adaptando-o à realidade da sua turma, bem como da comunidade escolar. O seu papel como mediador será fundamental para desenvolver a curiosidade dos estudantes para a Educação Financeira com propósito emancipador.
-# Agradecimentos: subseção dentro do prefácio, antes da assinatura.
-# Para ativar, descomente as linhas abaixo e escreva o texto
-# (parágrafos separados por uma linha em branco, como no preface):
-#      preface_acknowledgments: |
-#        Primeiro parágrafo dos agradecimentos.
-#
-#        Segundo parágrafo.
+# Agradecimentos: subseção dentro do prefácio, antes da assinatura
+      preface_acknowledgments: |
+        Agradeço a Deus, porque sei que foi Ele que me trouxe até aqui, no tempo dEle e, principalmente, por estar em todos os momentos da minha vida, por ter me sustentado nos dias bons e nos que exigiram de mim mais força do que eu imaginava possuir.
+
+        À minha mãe, Dona Nete, minhas irmãs e sobrinhas por estarem sempre presentes me proporcionando, ao longo de toda a minha vida, o apoio que tantas vezes faz toda a diferença.
+
+        Aos amigos que passaram pela minha vida e aos que permanecem nela, cada amizade deixou sua marca e contribuiu para a pessoa que me tornei. Anandrey, Felipe, Gabi, Gleiciane, Johnantan, Natacha, Najara, Socorro e Wandeilson. Muito obrigado por tudo.
+
+        Meus agradecimentos a Tatiana, Renato, Marcelo, Valdemir, Raquel, Júlio, amigos e colegas de profissão que admiro e que me ensinaram a conduzir a vida e a profissão sempre com zelo, responsabilidade e justiça.
+
+        Aos colegas da EEMTI Dom Francisco de Assis Pires, em Ipaumirim, diretor Batista, coordenadora Tata, e minha “coordenadora top” Joyce, bem como aos colegas Alinne, Tia Preta, Rejane, Tia Kelly, os “Josés”, pois são muitos, Dudu, Rosilene, Micaelle, Felipe, Tiago e Jefferson.
+
+        Aos colegas da EEEP Monsenhor Expedito da Silveira de Sousa – EEEPMESS, em Camocim, agradeço pelo suporte, pela receptividade e pelo acolhimento. Foi nessa escola que iniciei minha trajetória como professor no estado em 2017, ainda como temporário, e para onde retorno, agora como efetivo, para continuar o meu dom.
+
+        Aos meus alunos, das turmas de Técnico em Administração 2021-2023, pelo laço que criamos. Às turmas de 2023 a 2025, meus queridos afilhados, dedico um agradecimento ainda mais especial, pois com vocês compreendi ainda mais o sentido daquilo que Antoine de Saint-Exupéry escreveu em O Pequeno Príncipe: depois que alguém nos cativa, nasce também uma responsabilidade por esse vínculo. Guardarei para sempre nomes como “Talinho”, que inclusive carrego tatuado na pele, e “Mestrales”, criado por vocês a partir do momento em que contei que iria ingressar no PROFMAT.
+
+        De modo especial, obrigado a Walkécya, uma ex-aluna, hoje amiga. Muito obrigado por estar sempre presente.
+
+        Aos meus melhores amigos, Amanda Alves e Leandro Cruz, agradeço por uma amizade que ultrapassa a simples convivência física. Sei que posso contar com vocês sempre. Estendo aos seus cônjuges, respectivamente, Daniele e Thiago Diniz, meu muito obrigado por tudo.
+
+        Aos meus colegas do PROFMAT/UFCA, que ingressaram comigo em 2024, agradeço pelas batalhas que enfrentamos juntos. Em breve seremos mestres, e fico muito feliz pela conquista de cada um de nós.
+
+        Aos meus professores, durante toda a minha trajetória, agradeço por todos os ensinamentos que contribuíram para a formação do professor que hoje procuro ser. Na graduação, agradeço aos professores Edvalter Sena e Nilton José. No mestrado, agradeço aos professores Assis e Anna Karla, pelos conhecimentos compartilhados. E, de maneira especial, ao Prof. Dr. Vicente Helano Feitosa Batista Sobrinho, a quem admiro pela capacidade de transitar com brilhantismo pela Matemática, pela tecnologia e pela linguagem computacional, bem como por ter aceitado me orientar neste trabalho. Aos coordenadores do PROFMAT/UFCA e aos demais professores do programa, meu reconhecimento pelo trabalho desenvolvido. Se Deus permitir, veremos o polo também ofertar o Doutorado Profissional em Matemática.
+
+        Por fim, agradeço a todos aqueles que de alguma forma fizeram parte desta caminhada e contribuíram para que eu chegasse até aqui. Alguns estão registrados nestas páginas, outros permanecem registrados na memória e no coração. Muito obrigado!
