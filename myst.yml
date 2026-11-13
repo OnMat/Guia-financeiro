@@ -55,5 +55,5 @@ site:
       url: https://github.com/OnMat/Guia-financeiro
     - title: Feedback
       url: https://github.com/OnMat/Guia-financeiro/issues
-    - title: Download PDF
-      url: ./exports/Guia-da-aposta-ao-investimento.pdf
+    - title: Baixar o PDF
+      url: https://onmat.github.io/Guia-financeiro/Guia-da-aposta-ao-investimento.pdf
