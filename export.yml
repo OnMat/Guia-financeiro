@@ -2,7 +2,8 @@ version: 1
 project:
 
   downloads:
-    - id: output-pdf
+    - file: exports/Guia-da-aposta-ao-investimento.pdf
+      title: Baixar o PDF
 
   exports:
     - id: output-pdf
