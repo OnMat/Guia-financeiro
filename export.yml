@@ -1,9 +1,13 @@
 version: 1
 project:
 
+  static_files:
+    - exports/Guia-da-aposta-ao-investimento.pdf
+
   downloads:
-    - file: ./exports/Guia-da-aposta-ao-investimento.pdf
+    - url: https://onmat.github.io/Guia-financeiro/Guia-da-aposta-ao-investimento.pdf
       title: Baixar o PDF
+      filename: Guia-da-aposta-ao-investimento.pdf
 
   exports:
     - id: output-pdf
