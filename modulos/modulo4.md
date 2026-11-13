@@ -34,6 +34,8 @@ onde:
 
 Veja que com $n$ no expoente, quanto maior for o valor dele, maior será o montante final acumulado $M$, ou seja, o tempo é fator determinante para que o ativo financeiro seja tão grande e representativo quanto queira. E daí, podemos dizer que quanto antes se começa a investir pequenas quantias poupadas de forma constante no início da vida, o resultado será significativamente maior do que investido tardiamente.
 
+Neste modelo, considera-se que os aportes possuem valores constantes e são realizados ao final de cada mês, sob uma taxa de juros mensal fixa e positiva, sem capital inicial. Essas hipóteses permitem representar matematicamente o crescimento do montante acumulado ao longo do tempo. Os resultados obtidos correspondem, portanto, a uma simulação teórica, não constituindo uma garantia de rendimento financeiro em aplicações reais.
+
 ## Atividade Investigativa: O laboratório do futuro
 
 ```{important} Objetivo da atividade
@@ -63,5 +65,5 @@ Construir uma planilha comparativa para investigar a diferença entre guardar o 
 6. Os alunos concluirão que, em se tratando de poupar dinheiro, é mais válido guardar em uma aplicação de renda fixa no regime de juros compostos, e que quanto antes eles façam isso, mais o tempo será parceiro deles na objetivação do patrimônio financeiro que se deseja alcançar.
 
 ```{attention} Importante
-A atividade expõe que pela modelagem matemática de aportes constantes mensais em uma aplicação financeira de renda fixa, quanto maior for o valor desses aportes aliado à quanto maior for o tempo/período em que a aplicação ficará vigente, o crescimento do patrimônio financeiro cresce exponencialmente. E isso ocorre independentemente de considerar outros fatores econômicos no período, como taxas, inflação, etc.
+A atividade expõe que pela modelagem matemática de aportes constantes mensais em uma aplicação financeira de renda fixa, quanto maior for o valor desses aportes aliado à quanto maior for o tempo/período em que a aplicação ficará vigente, o crescimento do patrimônio financeiro cresce exponencialmente. E isso ocorre independentemente de considerar outros fatores econômicos no período, como taxas, inflação, etc. Neste modelo, considera-se que os aportes possuem valores constantes e são realizados ao final de cada mês, sob uma taxa de juros mensal fixa e positiva, sem capital inicial. Essas hipóteses permitem representar matematicamente o crescimento do montante acumulado ao longo do tempo. Os resultados obtidos correspondem, portanto, a uma simulação teórica, não constituindo uma garantia de rendimento financeiro em aplicações reais.
 ```

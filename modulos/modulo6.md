@@ -13,6 +13,7 @@ O objetivo deste módulo é ofertar a você professor, orientações didáticas 
 - Apesar dos módulos estarem organizados em ordem crescente diante a sua complexidade, a duração de cada etapa deve ser adapta conforme a realidade da turma e disponibilidade de carga horária. 
 - Quando possível, incentive a participação dos estudantes por meio da discussão, levantamento de hipóteses e socialização, em grupo, dos resultados obtidos no decorrer das atividades investigativas. 
 - É necessário destacar, que este guia não tem o objetivo de proibir ou moralizar comportamentos relacionados às apostas, mas sim proporcionar aos estudantes capacidade para analisar de forma crítica essas situações por meio de argumentos fundamentados na Matemática. 
+- Considerando que a sequência didática se destina a estudantes do Ensino Médio, recomenda-se que todas as atividades relacionadas às apostas sejam desenvolvidas exclusivamente com finalidade educativa, utilizando situações hipotéticas, imagens ou materiais previamente selecionados pelo professor. Nenhuma atividade exige que os estudantes realizem cadastro em plataformas de apostas, instalem aplicativos, forneçam dados pessoais ou utilizem dinheiro real. A mediação docente deverá priorizar a análise crítica das situações apresentadas, evitando a exposição desnecessária dos estudantes a conteúdos promocionais ou serviços de apostas.
 - Recursos necessários: 
     * Computador, dispositivos eletrônicos (Smartphone e Tablets); 
     * Laboratório de Informática, Acesso à internet (opcional); 
@@ -103,7 +104,7 @@ Posteriormente, eles podem fazer comparações entre os resultados diante essas 
             * (Coluna `C`, Célula `C2`): `=VF(0,8%; A2; -50; 0; 0)`
 
 ```{attention} Aviso
-Professor, se o Google Sheets que o aluno abrir se tratar da versão em inglês, considere usar para a fórmula do valor futuro = future value, ou seja, `=FV(0.8%, A2, -50, 0, 0)`
+Professor, caso a planilha esteja configurada para utilizar nomes de funções em inglês e a localidade dos Estados Unidos, a função correspondente ao valor futuro é `FV`. Nesse caso, utilize a fórmula `=FV(0.8%,A2,-50,0,0)`. Observe que a escrita das funções, os separadores dos argumentos e a representação dos números decimais podem variar conforme as configurações de idioma e localidade da planilha.
 ```
 
 ## Considerações ao Professor 

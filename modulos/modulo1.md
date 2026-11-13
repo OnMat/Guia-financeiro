@@ -36,12 +36,13 @@ Desenvolver a criticidade dos estudantes em relação às estratégias de market
 ### Roteiro
 
 1. Divida a sala em pequenos grupos (de 3 a 4 alunos)
-2. Peça para cada grupo pesquisar ou recordar propagandas, publicações de influenciadores digitais ou patrocínios de times de futebol, campeonato, programas de TV relacionados a marcas de casas de apostas.
-3. Oriente os grupos a analisarem as narrativas coletadas na pesquisa, com base em três perguntas guias:
+2. Apresente aos grupos exemplos de propagandas, publicações de influenciadores digitais ou materiais relacionados a patrocínios de casas de apostas, previamente selecionados pelo professor e disponibilizados por meio de imagens impressas ou capturas de tela. Os estudantes também poderão comentar exemplos que já conheçam, sem necessidade de realizar buscas, acessar plataformas de apostas ou interagir com conteúdos promocionais.
+3. Peça para cada grupo pesquisar ou recordar propagandas, publicações de influenciadores digitais ou patrocínios de times de futebol, campeonato, programas de TV relacionados a marcas de casas de apostas.
+4. Oriente os grupos a analisarem as narrativas coletadas na pesquisa, com base em três perguntas guias:
     * Acerca dos gatilhos emocionais: "A propaganda associa o ato de apostar com sentimento de conquistas, status, inteligência ou diversão entre amigos?"
     * Acerca das informações pouco destacadas: "Existe algum aviso nítido sobre os riscos de perda ou termos de responsabilidade? Se sim, onde está localizado e o seu tamanho?"
     * Acerca do uso de personalidades: "O uso de pessoas famosas (do esporte, da música, influenciadores) dá uma falsa impressão de segurança para quem joga?
-4. Ao final, cada grupo deve apresentar suas percepções em roda de conversa, identificando relações comuns nas estratégias usadas pelas plataformas para atrair novos usuários.
+5. Ao final, cada grupo deve apresentar suas percepções em roda de conversa, identificando relações comuns nas estratégias usadas pelas plataformas para atrair novos usuários.
 
 ```{attention} Importante
 Essa análise permite aos estudantes perceberem como as estratégias de comunicação utilizadas pelas plataformas de apostas podem influenciar a percepção dos riscos e das possibilidades de ganho [@antunes2025apostas]
